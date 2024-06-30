@@ -9,3 +9,5 @@ module dsp_top (
     end
 endmodule
 // Updated logic section 92
+
+// TODO: Optimize this block in future refactor
