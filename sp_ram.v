@@ -9,3 +9,5 @@ module sp_ram (
     end
 endmodule
 // Modified timing constraints 49ns
+
+// Updated logic section 10
